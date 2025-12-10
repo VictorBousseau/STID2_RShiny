@@ -1,0 +1,22 @@
+# Données sensibles
+data/
+*.csv
+*.xlsx
+*.xls
+
+# R/RStudio fichiers
+.RData
+.Rhistory
+.Rproj.user/
+*.Rproj
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+*~
+
+# Fichiers temporaires
+*.swp
+*.swo
+.Renviron
+.Rprofile
